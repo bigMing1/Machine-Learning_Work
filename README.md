@@ -5,3 +5,4 @@ Week2：machine-learning-ex1
 Week3: machine-learning-ex2
 week4: machine-learning-ex3
 week5: machine-learning-ex4
+week6: machine-learning-ex5
